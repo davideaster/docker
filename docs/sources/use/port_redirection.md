@@ -22,7 +22,7 @@ Docker addresses these two problems and gives a simple and robust way to
 access services running inside containers.
 
 To allow non-local clients to reach the service running inside the
-container, Docker provide ways to bind the container port to an
+container, Docker provides ways to bind the container port to an
 interface of the host system. To simplify communication between
 containers, Docker provides the linking mechanism.
 
