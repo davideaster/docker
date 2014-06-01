@@ -18,7 +18,7 @@ port is not reachable by the outside world. Furthermore, even if the
 port is used locally, e.g. by another container, this method is tedious
 as the IP address of the container changes every time it starts.
 
-Docker addresses these two problems and give a simple and robust way to
+Docker addresses these two problems and gives a simple and robust way to
 access services running inside containers.
 
 To allow non-local clients to reach the service running inside the
